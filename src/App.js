@@ -19,6 +19,8 @@ function App() {
         </a>
       </header> */}
       <Button/>
+      <Button/>
+      <Button/>
     </div>
   );
 }
