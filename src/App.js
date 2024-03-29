@@ -19,6 +19,7 @@ function App() {
         </a>
       </header> */}
       <Button/>
+      <Button/>
     </div>
   );
 }
